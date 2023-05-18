@@ -1,14 +1,11 @@
-import React from 'react';
-import Header from '../Header/Header';
+import React from "react";
 
 const Products = () => {
-    return (
-        <div>
-            <Header></Header>
-            <h4> This is products </h4>
-            
-        </div>
-    );
+  return (
+    <div>
+      <h4> This is products </h4>
+    </div>
+  );
 };
 
 export default Products;
